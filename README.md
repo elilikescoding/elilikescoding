@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Eli's GitHub ReadMe</title>
-</head>
-
 <body>
     <h1>About me.</h1>
     <p>Hi there! I'm an in-experienced software developer with a passion for open source projects. I'm always looking to learn new things and improve my skills, so I'm really excited to be part of the GitHub community. I'm confident that I can contribute to any project I'm involved in and help it become a success.</p>
